@@ -3,6 +3,7 @@ def main():
     # Judul
     st.balloons()
     st.snow()
+    
     st.title("Kalkulator Sederhana")
     st.write("Aplikasi ini menghitung operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.")
     # Input angka pertama
