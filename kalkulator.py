@@ -1,7 +1,6 @@
 import streamlit as st
 def main():
     # Judul
-    st.balloons()
     st.snow()
     
     st.title("Kalkulator Sederhana")
