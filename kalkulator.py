@@ -1,7 +1,7 @@
 import streamlit as st
 def main():
     # Judul
-    st.lightning()
+    st.write(kalkulator seperti biasa')
     
     st.title("Kalkulator Sederhana")
     st.write("Aplikasi ini menghitung operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.")
